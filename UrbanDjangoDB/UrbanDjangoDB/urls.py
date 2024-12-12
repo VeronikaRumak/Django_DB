@@ -25,6 +25,7 @@ urlpatterns = [
     path('platform/', platform),
     path('games/', games),
     path('cart/', cart),
+    path('news/', news),
 
     # path('class/', class_template.as_view()),
     # path('func/', func_template),
